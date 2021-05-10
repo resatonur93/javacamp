@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../javacampday3/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/../javacampday3/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacampday3/inheritance2/inheritance2.iml" filepath="$PROJECT_DIR$/../javacampday3/inheritance2/inheritance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacampday1/javacampday1.iml" filepath="$PROJECT_DIR$/../javacampday1/javacampday1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacampday2/javacampday2.iml" filepath="$PROJECT_DIR$/../javacampday2/javacampday2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacampday2 HW/javacampday2 HW.iml" filepath="$PROJECT_DIR$/../javacampday2 HW/javacampday2 HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacampday3/javacampday3.iml" filepath="$PROJECT_DIR$/../javacampday3/javacampday3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacampday4/javacampday4.iml" filepath="$PROJECT_DIR$/../javacampday4/javacampday4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacampday4 HW/javacampday4 HW.iml" filepath="$PROJECT_DIR$/../javacampday4 HW/javacampday4 HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacampday4 HW2/javacampday4 HW2.iml" filepath="$PROJECT_DIR$/../javacampday4 HW2/javacampday4 HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacampday5/javacampday5.iml" filepath="$PROJECT_DIR$/../javacampday5/javacampday5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacampday5 HW/javacampday5 HW.iml" filepath="$PROJECT_DIR$/../javacampday5 HW/javacampday5 HW.iml" />
+    </modules>
+  </component>
+</project>
